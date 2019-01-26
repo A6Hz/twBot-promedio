@@ -157,8 +157,8 @@ def start():
     
     tweet = """⛔️ Proof of concept only! ⛔️\n🔴 Valor promedio del dolar es de: %s. 🔴\nCuentas:\n%s\n%s""" % (round(valorFinal,2), valorCuentas, datetime.datetime.now())
     
+    api.update_status(tweet)
     print(valor)
-    #api.update_status(tweet)
     
 
 
