@@ -151,7 +151,7 @@ def start():
     for key, val in valor.items():
         valRem = val.replace(",", ".")
         aux += float(valRem)
-        valorCuentas = valorCuentas + "☑️ " + key + " => " + valRem +".\n" 
+        valorCuentas = valorCuentas + "☑️ @" + key + " => " + valRem +".\n" 
     
     valorFinal = aux/len(valor)
     
