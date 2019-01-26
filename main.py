@@ -3,7 +3,7 @@ import re
 import datetime
 import time
 try:
-    from credentials5 import *
+    from credentials import *
 except:
     from os import environ
 

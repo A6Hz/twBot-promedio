@@ -32,3 +32,8 @@ Then you should be able to run locally.
 
 
 Actual bot is running at [@DaemonPurosesu](https://twitter.com/DaemonPurosesu)
+
+
+![Example IMG](example.png "Example")
+
+
